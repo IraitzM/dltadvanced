@@ -1,2 +1,3 @@
-# dltadvanced
-Exercises for DLT advanced
+# dlt Advanced
+
+Exercises from DLT Advanced course.
